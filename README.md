@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajdeep
-- 👀 I’m interested in 
+- 👀 I’m interested in Generative models in ML, Machine Unlearning, Functional Analysis, Topology
 - 🌱 I’m currently doing research in Machine Unlearning
-- 💞️ I’m looking to collaborate on deep generative models
+- 💞️ I’m looking to collaborate on Deep Generative Models in ML
 - 📫 Mail me at rajdeep.mondal@tcgcrest.org
 
 <!---
